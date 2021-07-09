@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TOOLS="bash vim curl bind-tools tree jq"
+TOOLS="bash vim curl bind-tools tree jq netcat-openbsd net-tools micro nano strace tzdata"
 TMPDIR=
 NEW_PKGS=
 
